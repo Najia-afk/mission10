@@ -1,6 +1,0 @@
-pandas
-plotly
-nbformat
-pypdf
-ipykernel
-jupyter
